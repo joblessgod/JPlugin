@@ -1,0 +1,9 @@
+name: JPlugin
+version: 1.0
+author: JobLessGod
+main: com.joblessgod.jplugin.JPlugin
+api-version: 1.
+commands:
+  diamond:
+    description: Gives you 3 diamonds
+    usage: /diamond
